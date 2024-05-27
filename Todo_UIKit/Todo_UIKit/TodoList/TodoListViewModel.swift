@@ -7,7 +7,7 @@
 
 import Foundation
 
-
+// 아키텍쳐 냐미..
 class TodoListViewModel {
     var todosUpdated: (() -> Void)?
     
